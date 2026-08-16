@@ -53,7 +53,7 @@ case("the work/customer world",
      want_self=True, want_ring="forbidden-owner")
 case("a mimic wearing self's coat",
      {"full_name": "impostor/fake-rapp",
-      "description": "a rapp/1 BasicAgent brainstem clone with openrappter and rappid:@a/b"},
+      "description": "a rapp/1 BasicAgent brainstem clone with rappid:@a/b"},
      want_self=True, want_ring="mimic")
 
 # ── The control half: these are genuinely FOREIGN. is_self must be False. ────

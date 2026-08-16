@@ -82,7 +82,6 @@ MIMIC_MARKERS = (
     "rapp/1",
     "rappid:@",
     "basicagent",
-    "openrappter",
     "rapp agent registry",
     "the rapp dino",
     "rapp is above that",
